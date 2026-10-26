@@ -1,0 +1,19 @@
+{
+  "name": "hotjungle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hot Jungle: a run-and-gun arcade game - five jungle missions with bosses, in one HTML page (fan-made)",
+  "author": "ALEXalesha",
+  "license": "MIT",
+  "homepage": "https://alexalesha.github.io/HotJungle/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEXalesha/HotJungle.git"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1"
+  }
+}
